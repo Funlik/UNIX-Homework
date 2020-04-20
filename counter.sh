@@ -28,7 +28,7 @@ done < $1
 
 for i in ${!sentences[@]}
 do
-	if [ "$i" -gt 0 ] && [ "$i" -lt 11 ]; then #for 1-10 numbers
+	if [ "$i" -gt 0 ] && [ "$i" -lt 11 ]; then #for 1-10 words
 		echo $i "word(s) in sentence:" ${sentences[$i]}
 	fi
 done
