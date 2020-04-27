@@ -1,4 +1,4 @@
-FROM python:3
+FROM ubuntu
 
 COPY configs /usr/configs
 COPY configs/crontab /etc/cron.d/cjob
