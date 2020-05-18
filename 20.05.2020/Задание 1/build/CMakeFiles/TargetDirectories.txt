@@ -1,0 +1,3 @@
+/Users/Kolya/Documents/GitHub/UNIX-Homework/20.05.2020/Задание 1/build/CMakeFiles/rebuild_cache.dir
+/Users/Kolya/Documents/GitHub/UNIX-Homework/20.05.2020/Задание 1/build/CMakeFiles/edit_cache.dir
+/Users/Kolya/Documents/GitHub/UNIX-Homework/20.05.2020/Задание 1/build/CMakeFiles/wgetdemo.dir
