@@ -1,5 +1,5 @@
 #!/bin/bash
-if ! (curl -s wttr.in | head -n 3 | grep -i -q rain) then
+if ! (curl -s wttr.in | head -n 3 | grep -i -q rain); then
 	killall -TSTP smbd
 	tar zcf /files/backup-$(date +%Y-%m-%d).tar.gz /files/*.html
 	killall -CONT smbd
