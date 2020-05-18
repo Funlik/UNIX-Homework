@@ -20,7 +20,7 @@ int main(int argc, const char * argv[])
 	    else if (system("uname -a > NUL 2>&1")==0)
 	    {
 	        //Most likely we are on unix
-	         system("uname -a");
+	        system("uname -a");
 	    }
 	    else
 	        printf("Unknown OS");
