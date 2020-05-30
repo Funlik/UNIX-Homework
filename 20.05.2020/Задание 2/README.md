@@ -12,5 +12,7 @@
 
 Пришлось использовать директивы препроцессора в случае со сборкой под iOS (с разрешения преподавателя), т.к. из iOS, начиная с 8 версии, была удалена функция ``system()``.
 
+<!-- Обновить
 # Пример работы
 [![asciicast](https://asciinema.org/a/dzEUL60tTbAlHh9DJAjgkmR37.svg)](https://asciinema.org/a/dzEUL60tTbAlHh9DJAjgkmR37)
+-->
