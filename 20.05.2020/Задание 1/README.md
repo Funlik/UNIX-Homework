@@ -10,6 +10,7 @@
 В файле build.sh написан скрипт, с помощью CMake собирающий программу для iOS.
 
 В файле launch.sh реализован запуск програмы.
-
+<!-- Обновить
 # Пример работы
 [![asciicast](https://asciinema.org/a/vWnRk0FNkdduh5YyQy8rUUz7E.svg)](https://asciinema.org/a/vWnRk0FNkdduh5YyQy8rUUz7E)
+-->
